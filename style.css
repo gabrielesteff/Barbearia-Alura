@@ -1,0 +1,17 @@
+body
+{
+  text-align: center;
+  background: #cccccc;
+}
+
+h1
+{font-size: 35px}
+p{font-size: 25px}
+
+  em strong
+{
+  color: red
+}
+
+#barbearia
+{width: 100%}
